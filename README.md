@@ -34,7 +34,7 @@ During each iteration, the next state is calculated from the current state. Once
 
 This approach guarantees that all updates occur simultaneously and prevents newly updated cells from influencing the same iteration.
 
-## Technologies
+## 
 
 * Python 3
 * NumPy
